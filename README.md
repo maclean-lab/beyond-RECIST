@@ -40,6 +40,7 @@ Data used in the analysis is included in the data folder, see the main text for 
  - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1038/s41467-024-54711-2)
  - `data` : folder for data used in the analysis and simulations, see the main text for details.
  - `beyond_RECIST.ipynb` :  Jupyter notebook containing code for analysis and plotting.
+ - `profile_wise_analysis.ipynb` : Jupyter notebook containing profile-wise analysis code.
  - `data.xlsx` :  data for each of the 55 tumors (minimum two measurements).
  - `IMC_proportions.xlsx` :  table with the proportion of all immune cell types in the IMC data.
  - `table_baseline_vs_final.xlsx` :  table with the basline and final tumor sizes by site.
