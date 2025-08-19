@@ -37,7 +37,7 @@ Data used in the analysis is included in the data folder, see the main text for 
  - [CSV.jl](https://csv.juliadata.org/stable/)
 
 ### Project contents
- - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1038/s41467-024-54711-2)
+ - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1101/2025.08.11.669777)
  - `data` : folder for data used in the analysis and simulations, see the main text for details.
  - `beyond_RECIST.ipynb` :  Jupyter notebook containing code for analysis and plotting.
  - `profile_wise_analysis.ipynb` : Jupyter notebook containing profile-wise analysis code.
