@@ -6,7 +6,7 @@
 If you use beyond_RECIST in your research, please cite the preprint [here](https://doi.org/10.1101/2025.08.11.669777).
 
 J Kreger, E Gonzalez, X Wu, ET Roussos Torres, AL MacLean (2025).
-Beyond RECIST: mathematical modeling and Bayesian inference reveals immune parameters predict site specific response in metastatic breast cancer. Preprint.
+Beyond RECIST: mathematical modeling and Bayesian inference reveal the importance of immune parameters in metastatic breast cancer. Preprint.
 
 The bioRxiv version is available [here](https://doi.org/10.1101/2025.08.11.669777). 
 
