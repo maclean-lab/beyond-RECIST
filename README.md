@@ -1,4 +1,3 @@
-# beyond_RECIST
 
 # Beyond RECIST: mathematical modeling and Bayesian inference reveal the importance of immune parameters in metastatic breast cancer
 
